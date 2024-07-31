@@ -1,0 +1,8 @@
+{
+    "name": "TON Wheel",
+    "description": "TON Wheel - Telegram",
+    "url": "https://fortunewheel.ceygames.com",
+    "icons": ["https://fortunewheel.ceygames.com/icon.png"],
+    "termsOfUseUrl": "https://github.com/smmendis/public_data/ton-wheel/terms-of-use.txt",
+    "privacyPolicyUrl": "https://github.com/smmendis/public_data/ton-wheel/privacy-policy.txt"
+}
