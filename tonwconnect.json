@@ -3,4 +3,6 @@
     "description": "TON Wheel - Telegram",
     "url": "https://fortunewheel.ceygames.com",
     "icons": ["https://fortunewheel.ceygames.com/icon.png"]
+    "termsOfUseUrl": "https://github.com/smmendis/public_data/terms-of-use.txt",
+    "privacyPolicyUrl": "https://github.com/smmendis/public_data/privacy-policy.txt"
 }
